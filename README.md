@@ -25,4 +25,3 @@ Data Collection The main data sources for this analysis is the "Data Sales" file
 4. Created pivot table for different visualisation needs
 5. create report
   
-https://github.com/Oluwapelumirose/MY-LITA-PROJECT-1/blob/ce3b6d318a1435366646200c4883ff870efbe858/SalesData%20Table.png
