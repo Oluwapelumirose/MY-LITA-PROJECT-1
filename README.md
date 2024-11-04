@@ -1,6 +1,6 @@
 # MY-LITA-PROJECT-1
 ### Project 1: Sales Performance Analysis for a Retail Store
-A sales performance analysis in a retail store typically aims to evealuate and understand key sales trends, identify top-performing products and pinpoint areas for improvement. Here's an overview to guide through structuring a sales performance analysis project;
+A sales performance analysis typically aims to evealuate and understand key sales trends, identify top-performing products and pinpoint areas for improvement. Here's an overview to guide through structuring a sales performance analysis project;
 
 ### Objective
 To assess the store's sales performannce to inform better business decisions
@@ -26,3 +26,11 @@ Data Collection The main data sources for this analysis is the "Data Sales" file
 5. create report
   
 ![SalesData Table](https://github.com/user-attachments/assets/2ff6d740-0809-40df-92da-a5de5735d737)
+Sales Data
+
+
+![CustomerData Table](https://github.com/user-attachments/assets/45b8881d-0c45-470b-ad3e-9291e7d1a944)
+Customers Data
+
+
+
