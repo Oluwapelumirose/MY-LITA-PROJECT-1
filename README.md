@@ -25,3 +25,4 @@ Data Collection The main data sources for this analysis is the "Data Sales" file
 4. Created pivot table for different visualisation needs
 5. create report
   
+![SalesData Table](https://github.com/user-attachments/assets/2ff6d740-0809-40df-92da-a5de5735d737)
