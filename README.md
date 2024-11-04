@@ -33,4 +33,13 @@ Sales Data
 Customers Data
 
 
+### Pivot Tables for Each Dataset
+![CustomerData Table](https://github.com/user-attachments/assets/be05aa59-cd67-4d0a-8d6f-25ebc9347d6c)
+Sales Data
+
+![CustomerData Table](https://github.com/user-attachments/assets/d14455fb-60f6-4487-a0dc-194be1b44179)
+Customers Data
+
+
+
 
