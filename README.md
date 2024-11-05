@@ -1,5 +1,16 @@
 # MY-LITA-PROJECT-1
-### Project 1: Sales Performance Analysis for a Retail Store
+
+[Project Overview](#project-overview)
+
+[Objective](#objective)
+
+[Tools Used](#tools-used)
+
+[Pivot Tables for Each Dataset](#pivot-tables-for-each-dataset)
+
+[PowerBi Data Visualization](powerBi-data-visualization)
+
+### Project Overview 
 A sales performance analysis typically aims to evealuate and understand key sales trends, identify top-performing products and pinpoint areas for improvement. Here's an overview to guide through structuring a sales performance analysis project;
 
 ### Objective
