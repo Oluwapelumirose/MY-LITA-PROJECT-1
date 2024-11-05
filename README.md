@@ -1,4 +1,4 @@
-# MY-LITA-PROJECT-1
+# MY-LITA-PROJECT-1 (SALES DATA)
 
 [Project Overview](#project-overview)
 
