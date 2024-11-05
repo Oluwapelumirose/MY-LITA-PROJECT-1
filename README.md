@@ -163,6 +163,8 @@ Write queries to extract key insights based on the following questions;
 
 ### PowerBi Data Visualization
 
+![SalesData Dashboard 1](https://github.com/user-attachments/assets/fabd8aff-61d4-44c6-8007-7323eeaf4fec)
+
 
   
 
