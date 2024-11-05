@@ -3,7 +3,7 @@
 A sales performance analysis typically aims to evealuate and understand key sales trends, identify top-performing products and pinpoint areas for improvement. Here's an overview to guide through structuring a sales performance analysis project;
 
 ### Objective
-To assess the store's sales performannce to inform better business decisions
+To assess the store's sales performance to inform better business decisions
 To identify top-performing products, peak sales periods, and underperforming areas
 To analyze customer buying patterns, and regional trends on sales.
 Data Collection The main data sources for this analysis is the "Data Sales" file, which are open-source datasets available
